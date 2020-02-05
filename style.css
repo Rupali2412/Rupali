@@ -56,3 +56,9 @@ a:hover  {
 .footer ul li {
  display: inline-block;
 }
+
+iframe {
+  align-self: center;
+  padding-left: 500px;
+  padding-right: 500px;
+}
